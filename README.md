@@ -1,5 +1,3 @@
-### Olá, meu nome é Robson 👋
+### Hello, my name´s Robson 👋
 
-Tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Itapetininga - SP e estou cursando o último semestre. Ah! Atualmente trabalho com desenvolvimento de aplicativos mobile utilizando Flutter, Dart e PHP.
-
-Desde os meus 15 anos já me interessava por programação e costumava criar programas naquela "telinha preta". Hoje vejo o quanto evoluí e aprendi coisas novas e isso me deixa muito feliz, mas sei que tenho muito a aprender e busco todos os dias aprender algo novo :)
+I am twenty one years old. I am from Angatuba but I live in Itapetininga - SP. I study Analysis and Systems Development at The São Paulo State Technological Colleges called FATECs (which in Portuguese is: Faculdades de Tecnologia do Estado de São Paulo). I'm a helpdesk assistant in an Information Tecnology Company, in the city of Itapetininga. I believe my principal strenght is learning things quickly and on my own. Thanks for visiting my profile.
